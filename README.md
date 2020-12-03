@@ -32,15 +32,15 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-The following starter page should be rendered on the screen with a green cube animation, as such:
+The following starter page should be rendered on the screen with the default boilerplate code for this template, as such:
 
-<img src="https://i.ibb.co/pXNv0vv/Screen-Shot-2020-12-03-at-11-28-57.png" />
+<img src="https://i.ibb.co/XDQrGXN/Screen-Shot-2020-12-03-at-16-00-29.png" />
 
-You can now start editing the page and your app by modifying `pages/index.js`. The page auto-updates as you edit the file. Feel free to make it your own.
+You can now start editing the page and your app by modifying `pages/index.tsx`. The page auto-updates as you edit the file. Feel free to make it your own (treat it like a normal app generated with `npx create-next-app` or `yarn create next-app`).
 
 ## Learn More
 
-Helpful resources I think will be useful for advancing what the template gives you in this project:
+Helpful resources I think will be useful for advancing what the template gives you with NextJS and TypeScript:
 
 1. [NextJS Documentation](https://nextjs.org/docs)
 
