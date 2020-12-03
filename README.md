@@ -40,6 +40,10 @@ The following starter page should be rendered on the screen with the default boi
 
 You can now start editing the page and your app by modifying `pages/index.tsx`. The page auto-updates as you edit the file. Feel free to make it your own (treat it like a normal app generated with `npx create-next-app` or `yarn create next-app`).
 
+## Contributing
+
+Pull requests, issues, discussions, etc. are always welcome!
+
 ## Learn More
 
 Helpful resources I think will be useful for advancing what the template gives you with NextJS and TypeScript:
