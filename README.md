@@ -2,7 +2,7 @@
 
 A starter template for using [TypeScript](https://threejs.org) with [NextJS](https://nextjs.org) & server-side rendering (SSR) quickly and out-of-the-box so you can focus on what really matters - programming, not setup & config.
 
-**NOTE:** This template does not intend to infringe on any other templates or the NextJS framework. It is purely what I (Filippo Fonseca) use for my TypeScript + NextJS projects, as I wanted to have a quick and easy way to be able to access this type of configuration while helping others obtain it in the process through OSS. Let me know if you have any problems, issues, or queries. :)
+**NOTE:** This template does not intend to infringe on any other templates or the NextJS framework. It is purely what I (Filippo Fonseca) use for my TypeScript + NextJS projects, as I wanted to have a quick and easy way to be able to access this type of configuration while helping others obtain it in the process through OSS. Let me know if you have any problems, issues, or queries.
 
 ## Getting Started
 
