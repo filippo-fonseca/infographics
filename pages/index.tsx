@@ -48,7 +48,7 @@ export default function Home() {
           This template is created and maintained with ❤️ by Filippo Fonseca.
           <img
             src="https://www.flaticon.com/svg/static/icons/svg/2111/2111425.svg"
-            alt="Vercel Logo"
+            alt="GitHub Logo"
             className={styles.logo}
           />
         </a>
