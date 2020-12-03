@@ -5,59 +5,52 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Create Next App</title>
+        <title>Next-TS Template</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js with TypeScript!</a>
+          Welcome to{" "}
+          <a
+            href="https://github.com/filippo-fonseca/next-ts-template"
+            target="_blank"
+          >
+            Next.js with TypeScript!
+          </a>
         </h1>
 
         <p className={styles.description}>
           Get started by editing{" "}
-          <code className={styles.code}>pages/index.tsx</code>.
+          <code className={styles.code}>pages/index.tsx</code> and the
+          <code className={styles.code}>package.json</code> to change your
+          project info.
         </p>
 
-        <div className={styles.grid}>
-          <a href="https://nextjs.org/docs" className={styles.card}>
-            <h3>Documentation &rarr;</h3>
-            <p>Find in-depth information about Next.js features and API.</p>
-          </a>
-
-          <a href="https://nextjs.org/learn" className={styles.card}>
-            <h3>Learn &rarr;</h3>
-            <p>Learn about Next.js in an interactive course with quizzes!</p>
-          </a>
-
+        <p>
+          See changes to be made? Submit an issue or pull request on{" "}
           <a
-            href="https://github.com/vercel/next.js/tree/master/examples"
-            className={styles.card}
+            className={styles.personalLink}
+            href="https://github.com/filippo-fonseca/next-ts-template"
+            target="_blank"
           >
-            <h3>Examples &rarr;</h3>
-            <p>Discover and deploy boilerplate example Next.js projects.</p>
+            GitHub.
           </a>
-
-          <a
-            href="https://vercel.com/import?filter=next.js&utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-            className={styles.card}
-          >
-            <h3>Deploy &rarr;</h3>
-            <p>
-              Instantly deploy your Next.js site to a public URL with Vercel.
-            </p>
-          </a>
-        </div>
+        </p>
       </main>
 
       <footer className={styles.footer}>
         <a
-          href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+          href="https://github.com/filippo-fonseca"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Powered by{" "}
-          <img src="/vercel.svg" alt="Vercel Logo" className={styles.logo} />
+          This template is created and maintained with ❤️ by Filippo Fonseca.
+          <img
+            src="https://www.flaticon.com/svg/static/icons/svg/2111/2111425.svg"
+            alt="Vercel Logo"
+            className={styles.logo}
+          />
         </a>
       </footer>
     </div>
