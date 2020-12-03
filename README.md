@@ -34,7 +34,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 The following starter page should be rendered on the screen with the default boilerplate code for this template, as such:
 
-<img src="https://i.ibb.co/XDQrGXN/Screen-Shot-2020-12-03-at-16-00-29.png" />
+<kbd><img src="https://i.ibb.co/XDQrGXN/Screen-Shot-2020-12-03-at-16-00-29.png" /></kbd>
 
 You can now start editing the page and your app by modifying `pages/index.tsx`. The page auto-updates as you edit the file. Feel free to make it your own (treat it like a normal app generated with `npx create-next-app` or `yarn create next-app`).
 
