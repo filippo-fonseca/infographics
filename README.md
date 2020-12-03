@@ -1,8 +1,28 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# ❄️ TypeScript Template for NextJS
+
+A starter template for using [TypeScript](https://threejs.org) with [NextJS](https://nextjs.org) & server-side rendering (SSR) quickly and out-of-the-box so you can focus on what really matters - programming, not setup & config.
 
 ## Getting Started
 
-First, run the development server:
+First, clone the repository to get started and `cd` into the folder (feel free to rename it to your liking according to the name of your project):
+
+```bash
+git clone git@github.com:filippo-fonseca/next-ts-template.git
+
+cd next-ts-template
+```
+
+Next, install all required dependencies by running:
+
+```bash
+yarn
+# or
+npm i
+```
+
+**NOTE:** You can use either Yarn or npm, although it is recommended to use Yarn for this project (as it is the standard for NextJS-based projects).
+
+Lastly, let's run the development server!
 
 ```bash
 npm run dev
@@ -12,20 +32,22 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+The following starter page should be rendered on the screen with the default boilerplate code for this template, as such:
+
+<kbd><img src="https://i.ibb.co/XDQrGXN/Screen-Shot-2020-12-03-at-16-00-29.png" /></kbd>
+
+You can now start editing the page and your app by modifying `pages/index.tsx`. The page auto-updates as you edit the file. Feel free to make it your own (treat it like a normal app generated with `npx create-next-app` or `yarn create next-app`).
 
 ## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+Helpful resources I think will be useful for advancing what the template gives you with NextJS and TypeScript:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+1. [NextJS Documentation](https://nextjs.org/docs)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+2. [TypeScript Documentation](https://www.typescriptlang.org/docs)
 
-## Deploy on Vercel
+3. [How to Set Up a NextJS Project with TypeScript](https://dev.to/filippofonseca/how-to-set-up-a-next-js-project-with-typescript-and-react-576h)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+<hr>
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-# next-ts-template
+Made with ❤️ by [**@FilippoFonseca**](https://www.twitter.com/FilippoFonseca).
