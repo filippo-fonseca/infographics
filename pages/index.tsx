@@ -25,30 +25,33 @@ export default function Home() {
         </p>
 
         <p>
-          Want to check out the code? Check out the project's GitHub{" "}
+          Want to check out <strong>the code?</strong> Check out the project's
+          GitHub{" "}
           <a
             className={styles.personalLink}
             href="https://github.com/filippo-fonseca/infographics"
             target="_blank"
           >
-            repository.
+            repository.{" "}
+          </a>
+          Want to see <strong>what changed</strong> in the resubmission? Click{" "}
+          <a
+            className={styles.personalLink}
+            href="https://i.ibb.co/VHBgQkf/Changes.png"
+            target="_blank"
+          >
+            here.
           </a>
         </p>
         <div style={{ height: "50px" }} />
         <div style={{ display: "flex" }}>
           <kbd>
-            <img
-              width="400"
-              src="https://i.ibb.co/bB8nv7L/Election-Results-2.png"
-            />
+            <img width="400" src="https://i.ibb.co/hZWFLQG/1.png" />
           </kbd>
 
           <div style={{ width: "50px" }} />
           <kbd>
-            <img
-              width="400"
-              src="https://i.ibb.co/TWcjPDw/Why-Trump-Lost-1.png"
-            />
+            <img width="400" src="https://i.ibb.co/JRNYJFW/2.png" />
           </kbd>
         </div>
       </main>

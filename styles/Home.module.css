@@ -39,6 +39,7 @@
 .personalLink {
   color: #0070f3;
   text-decoration: none;
+  font-weight: bold;
 }
 
 .title a {
