@@ -5,48 +5,38 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Two Infographics Summative</title>
+        <title>Next-TS Template</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Two Infographics{" "}
+          Welcome to{" "}
           <a
             href="https://github.com/filippo-fonseca/next-ts-template"
             target="_blank"
           >
-            Summative
+            Next.js with TypeScript!
           </a>
         </h1>
 
         <p className={styles.description}>
-          Filippo Fonseca - <code className={styles.code}>IAS 9</code>
+          Get started by editing{" "}
+          <code className={styles.code}>pages/index.tsx</code> and the
+          <code className={styles.code}>package.json</code> to change your
+          project info.
         </p>
 
         <p>
-          Want to check out the code? Check out the project's GitHub{" "}
+          See changes to be made? Submit an issue or pull request on{" "}
           <a
             className={styles.personalLink}
-            href="https://github.com/filippo-fonseca/infographics"
+            href="https://github.com/filippo-fonseca/next-ts-template"
             target="_blank"
           >
-            repository.
+            GitHub.
           </a>
         </p>
-        <div style={{ height: "50px" }} />
-        <div style={{ display: "flex" }}>
-          <img
-            width="400"
-            src="https://i.ibb.co/bB8nv7L/Election-Results-2.png"
-          />
-
-          <div style={{ width: "50px" }} />
-          <img
-            width="400"
-            src="https://i.ibb.co/TWcjPDw/Why-Trump-Lost-1.png"
-          />
-        </div>
       </main>
 
       <footer className={styles.footer}>
@@ -55,7 +45,7 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Created and maintained with ❤️ by Filippo Fonseca.
+          This template is created and maintained with ❤️ by Filippo Fonseca.
           <img
             src="https://www.flaticon.com/svg/static/icons/svg/2111/2111425.svg"
             alt="GitHub Logo"
