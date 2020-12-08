@@ -42,6 +42,10 @@
   font-weight: bold;
 }
 
+.personalLink:hover {
+  text-decoration: underline;
+}
+
 .title a {
   color: #0070f3;
   text-decoration: none;
