@@ -10,14 +10,18 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
+        <p className={styles.description2}>
+          Welcome to a Summative Like You've <strong>Never</strong> Seen It
+          Before.
+        </p>
         <h1 className={styles.title}>
-          Two Infographics{" "}
+          TWO Election Infographics{" "}
           <a
             href="https://github.com/filippo-fonseca/infographics"
             target="_blank"
           >
-            Summative
-          </a>
+            Project
+          </a>{" "}
         </h1>
 
         <p className={styles.description}>
