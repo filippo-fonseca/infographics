@@ -61,5 +61,3 @@ Once again, because I wanted to go the extra mile, I also made a brief explainer
 
 If the embed does not work, the link to the video is [here](https://www.loom.com/share/6573faf525ea4748bede68acfe22073a).
 
-<iframe width="640" height="400" src="https://www.loom.com/embed/6573faf525ea4748bede68acfe22073a" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
