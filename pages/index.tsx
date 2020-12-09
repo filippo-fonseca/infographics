@@ -20,7 +20,7 @@ export default function Home() {
             href="https://github.com/filippo-fonseca/infographics"
             target="_blank"
           >
-            Project
+            Project.
           </a>{" "}
         </h1>
 
